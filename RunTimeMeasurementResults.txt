@@ -1,0 +1,245 @@
+Testing BubbleSort:
+Array Size: 100
+Average Random: 0.147 ms
+Average Ordered: 0.001 ms
+Average Partial: 0.142667 ms
+Average Reversed: 0.148667 ms
+-----------------------
+Array Size: 250
+Average Random: 0.867333 ms
+Average Ordered: 0.002 ms
+Average Partial: 0.793 ms
+Average Reversed: 0.788 ms
+-----------------------
+Array Size: 500
+Average Random: 2.588 ms
+Average Ordered: 0.00333333 ms
+Average Partial: 2.54433 ms
+Average Reversed: 2.49933 ms
+-----------------------
+Array Size: 1000
+Average Random: 6.65033 ms
+Average Ordered: 0.004 ms
+Average Partial: 5.831 ms
+Average Reversed: 5.754 ms
+-----------------------
+Array Size: 2500
+Average Random: 28.3627 ms
+Average Ordered: 0.00666667 ms
+Average Partial: 27.455 ms
+Average Reversed: 26.2057 ms
+-----------------------
+Array Size: 5000
+Average Random: 117.609 ms
+Average Ordered: 0.013 ms
+Average Partial: 114.544 ms
+Average Reversed: 105.713 ms
+-----------------------
+Array Size: 7500
+Average Random: 267.464 ms
+Average Ordered: 0.0243333 ms
+Average Partial: 263.66 ms
+Average Reversed: 238.551 ms
+-----------------------
+Array Size: 10000
+Average Random: 477.401 ms
+Average Ordered: 0.0283333 ms
+Average Partial: 464.878 ms
+Average Reversed: 418.821 ms
+-----------------------
+Testing InsertionSort:
+Array Size: 100
+Average Random: 0.011 ms
+Average Ordered: 0.000333333 ms
+Average Partial: 0.0103333 ms
+Average Reversed: 0.0183333 ms
+-----------------------
+Array Size: 250
+Average Random: 0.0593333 ms
+Average Ordered: 0.00133333 ms
+Average Partial: 0.0546667 ms
+Average Reversed: 0.110667 ms
+-----------------------
+Array Size: 500
+Average Random: 0.234333 ms
+Average Ordered: 0.002 ms
+Average Partial: 0.222667 ms
+Average Reversed: 0.440333 ms
+-----------------------
+Array Size: 1000
+Average Random: 0.894333 ms
+Average Ordered: 0.004 ms
+Average Partial: 0.860667 ms
+Average Reversed: 1.761 ms
+-----------------------
+Array Size: 2500
+Average Random: 5.50433 ms
+Average Ordered: 0.0106667 ms
+Average Partial: 5.36333 ms
+Average Reversed: 11.033 ms
+-----------------------
+Array Size: 5000
+Average Random: 22.1337 ms
+Average Ordered: 0.0203333 ms
+Average Partial: 21.2347 ms
+Average Reversed: 43.9787 ms
+-----------------------
+Array Size: 7500
+Average Random: 49.532 ms
+Average Ordered: 0.031 ms
+Average Partial: 47.9173 ms
+Average Reversed: 99.4427 ms
+-----------------------
+Array Size: 10000
+Average Random: 89.1493 ms
+Average Ordered: 0.0423333 ms
+Average Partial: 84.8303 ms
+Average Reversed: 177.522 ms
+-----------------------
+Testing MergeSort:
+Array Size: 100
+Average Random: 0.0516667 ms
+Average Ordered: 0.0423333 ms
+Average Partial: 0.0453333 ms
+Average Reversed: 0.0413333 ms
+-----------------------
+Array Size: 1000
+Average Random: 0.522667 ms
+Average Ordered: 0.462667 ms
+Average Partial: 0.518333 ms
+Average Reversed: 0.464 ms
+-----------------------
+Array Size: 5000
+Average Random: 2.926 ms
+Average Ordered: 2.531 ms
+Average Partial: 2.872 ms
+Average Reversed: 2.522 ms
+-----------------------
+Array Size: 10000
+Average Random: 6.01533 ms
+Average Ordered: 5.21967 ms
+Average Partial: 6.00033 ms
+Average Reversed: 5.21667 ms
+-----------------------
+Array Size: 50000
+Average Random: 32.5197 ms
+Average Ordered: 27.869 ms
+Average Partial: 32.4087 ms
+Average Reversed: 27.8373 ms
+-----------------------
+Array Size: 100000
+Average Random: 67.6297 ms
+Average Ordered: 57.5487 ms
+Average Partial: 67.423 ms
+Average Reversed: 57.5543 ms
+-----------------------
+Array Size: 500000
+Average Random: 368.303 ms
+Average Ordered: 309.237 ms
+Average Partial: 369.56 ms
+Average Reversed: 311.834 ms
+-----------------------
+Array Size: 1000000
+Average Random: 764.237 ms
+Average Ordered: 640.331 ms
+Average Partial: 761.918 ms
+Average Reversed: 642.893 ms
+-----------------------
+Testing QuickSort:
+Array Size: 100
+Average Random: 0.00633333 ms
+Average Ordered: 0.00333333 ms
+Average Partial: 0.00666667 ms
+Average Reversed: 0.005 ms
+-----------------------
+Array Size: 1000
+Average Random: 0.0883333 ms
+Average Ordered: 0.04 ms
+Average Partial: 0.0893333 ms
+Average Reversed: 0.07 ms
+-----------------------
+Array Size: 5000
+Average Random: 0.546667 ms
+Average Ordered: 0.241667 ms
+Average Partial: 0.529667 ms
+Average Reversed: 0.447 ms
+-----------------------
+Array Size: 10000
+Average Random: 1.16967 ms
+Average Ordered: 0.519 ms
+Average Partial: 1.155 ms
+Average Reversed: 0.971 ms
+-----------------------
+Array Size: 50000
+Average Random: 6.77967 ms
+Average Ordered: 3.09867 ms
+Average Partial: 6.81167 ms
+Average Reversed: 5.82167 ms
+-----------------------
+Array Size: 100000
+Average Random: 14.4097 ms
+Average Ordered: 6.514 ms
+Average Partial: 14.4997 ms
+Average Reversed: 12.544 ms
+-----------------------
+Array Size: 500000
+Average Random: 81.8183 ms
+Average Ordered: 35.4893 ms
+Average Partial: 80.7997 ms
+Average Reversed: 73.2567 ms
+-----------------------
+Array Size: 1000000
+Average Random: 170.475 ms
+Average Ordered: 74.4593 ms
+Average Partial: 170.271 ms
+Average Reversed: 155.369 ms
+-----------------------
+Testing ShellSort:
+Array Size: 100
+Average Random: 0.00766667 ms
+Average Ordered: 0.002 ms
+Average Partial: 0.007 ms
+Average Reversed: 0.004 ms
+-----------------------
+Array Size: 1000
+Average Random: 0.122333 ms
+Average Ordered: 0.031 ms
+Average Partial: 0.120667 ms
+Average Reversed: 0.0506667 ms
+-----------------------
+Array Size: 5000
+Average Random: 0.758 ms
+Average Ordered: 0.174667 ms
+Average Partial: 0.75 ms
+Average Reversed: 0.324667 ms
+-----------------------
+Array Size: 10000
+Average Random: 1.649 ms
+Average Ordered: 0.354667 ms
+Average Partial: 1.632 ms
+Average Reversed: 0.788333 ms
+-----------------------
+Array Size: 50000
+Average Random: 11.8517 ms
+Average Ordered: 1.81233 ms
+Average Partial: 11.672 ms
+Average Reversed: 9.71233 ms
+-----------------------
+Array Size: 100000
+Average Random: 32.527 ms
+Average Ordered: 3.66633 ms
+Average Partial: 31.7487 ms
+Average Reversed: 33.0593 ms
+-----------------------
+Array Size: 500000
+Average Random: 449.929 ms
+Average Ordered: 18.0997 ms
+Average Partial: 436.501 ms
+Average Reversed: 710.436 ms
+-----------------------
+Array Size: 1000000
+Average Random: 1625.87 ms
+Average Ordered: 36.411 ms
+Average Partial: 1564.72 ms
+Average Reversed: 2798.74 ms
+-----------------------
