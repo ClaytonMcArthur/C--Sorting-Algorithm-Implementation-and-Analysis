@@ -50,6 +50,3 @@ See `Lab3Report.pdf` and `RunTimeMeasurementResults.txt` for data and plots.
 
 ## Timing
 All timings use `gettimeofday` and report microseconds; the script averages three repetitions per case and size.
-
-## License
-Add your preferred license (e.g., MIT) to the repo root.
