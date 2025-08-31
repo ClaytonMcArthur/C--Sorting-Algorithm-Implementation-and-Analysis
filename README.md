@@ -15,7 +15,6 @@ Benchmark and compare classic sorting algorithms across data sizes and input ord
 - `SorterScript.cpp` — batch runner that averages 3 trials for each case
 - `RunTimeMeasurementResults.txt` — sample output (averaged timings)
 - `Lab3Report.pdf` — graphs & discussion
-- `Lab3.pdf` — assignment prompt
 
 ## Build
 ```bash
